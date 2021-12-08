@@ -25,6 +25,8 @@ def about(request):
 def index(request):
     return render(request, 'index.html')
 
+def thankyou(request):
+    return render(request, 'thankyou.html')
 
 def checkin(request):
     assert isinstance(request, HttpRequest)

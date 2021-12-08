@@ -1,1 +1,1 @@
-web: gunicorn Simple Attendance Application.wsgi
+web: gunicorn Employee_Attendance.wsgi

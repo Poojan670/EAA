@@ -1,1 +1,1 @@
-web:gunicorn EAA.wsgi
+web: gunicorn Simple Attendance Application.wsgi

@@ -1,1 +1,1 @@
-weeb:gunicorn EAA.wsgi
+web:gunicorn EAA.wsgi

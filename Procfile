@@ -1,0 +1,1 @@
+weeb:gunicorn EAA.wsgi

@@ -23,6 +23,7 @@ urlpatterns = [
     path('checkin/', include('checkin.urls')),
     path('contact', views.contact, name='contact'),
     path('about', views.about, name='about'),
+    path('thankyou', views.thankyou, name='thankyou'),
 
 
 ]

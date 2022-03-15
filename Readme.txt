@@ -1,5 +1,5 @@
 
-###### **Simple Employee Attendance Application with Django, Python, HTML and CSS*
+**Simple Employee Attendance Application with Django, Python, HTML and CSS*
 
 #preferrably Pycharm or VSCode
 install requirements.txt plugins
